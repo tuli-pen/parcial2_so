@@ -1,4 +1,5 @@
-README – Sistema de Monitoreo Distribuido (Collector + Agentes CPU/MEM)
+# Sistema de Monitoreo Distribuido (Collector + Agentes CPU/MEM)
+
 👥 Integrantes
 
 Misael Jesús Florez Anave – Implementación del Collector y despliegue en AWS EC2
