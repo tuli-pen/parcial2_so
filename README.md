@@ -2,9 +2,9 @@
 
 👥 Integrantes
 
-Misael Jesús Florez Anave – Implementación del Collector y despliegue en AWS EC2
-Tuli Peña Melo – Implementación del agente de Memoria (agent_mem)
-Andrew Nicolay Prieto Mendoza – Implementación del agente de CPU (agent_cpu)
+- Misael Jesús Florez Anave – Implementación del Collector y despliegue en AWS EC2
+- Tuli Peña Melo – Implementación del agente de Memoria (agent_mem)
+- Andrew Nicolay Prieto Mendoza – Implementación del agente de CPU (agent_cpu)
 
 
 📌 1. Descripción del Proyecto
